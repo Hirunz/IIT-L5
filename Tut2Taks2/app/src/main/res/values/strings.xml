@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Scrolling text</string>
+    <string name="article_title">Article Title</string>
+    <string name="article_subtitle">Article Subtitle</string>
+    <string name="article_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Sed faucibus malesuada ante, ac viverra dolor consequat non.
+        Maecenas vitae orci nec magna elementum aliquam sit amet vel nunc.
+        In sodales nulla non dui blandit, vel tempor diam sagittis.
+        Nunc nunc massa, ultricies a consequat non, hendrerit a mauris.
+        Aliquam et odio elit. Praesent in purus ut risus vulputate imperdiet non sit amet sapien.
+        Donec pharetra tortor ut sollicitudin feugiat.
+        Nunc vestibulum, nisi id porta dapibus, magna velit fringilla dolor, vitae faucibus purus ipsum ultricies nisi.
+        Sed arcu tellus, sagittis eu auctor non, dictum eget nisi.
+        Vestibulum faucibus dignissim risus a sollicitudin.
+        Proin sit amet ipsum tortor.
+        Donec sit amet dolor eget lorem mollis viverra non nec lectus.
+        Integer a cursus arcu. Donec pharetra pretium molestie.\n\n
+
+        Cras sapien ex, finibus sed nisl elementum, auctor ultricies diam.
+        Duis feugiat lobortis erat at hendrerit.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Mauris quis nulla vitae elit sodales egestas.
+        Phasellus mi nisl, vulputate scelerisque blandit id, consequat quis arcu.
+        Donec pellentesque leo et dolor elementum sollicitudin.
+        Sed tellus sem, efficitur eget urna quis, pharetra dictum purus.
+        Aenean urna dolor, semper sed volutpat in, mattis nec elit.
+        Curabitur pretium urna purus,https://www.lipsum.com/feed/html suscipit placerat odio suscipit at.
+        \n\n
+
+        Suspendisse felis metus, scelerisque non tempus quis, consequat sit amet urna.
+        In et rutrum nibh, non maximus nibh. Fusce sed eleifend justo.
+        Proin ultrices mi a lectus vestibulum tincidunt.
+        Aenean scelerisque in elit vitae fringilla.
+        Fusce id magna sit amet quam mattis vehicula non a lorem.
+        Curabitur consequat nibh sit amet dapibus lacinia.
+    </string>
+</resources>
