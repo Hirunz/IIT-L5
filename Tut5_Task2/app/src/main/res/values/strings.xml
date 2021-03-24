@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tut5_Task2</string>
+    <string name="db_hint_name">Enter Employee Name</string>
+    <string name="db_hint_id">Enter Employee ID</string>
+    <string name="db_hint_address">Enter Employee Address</string>
+    <string name="db_hint_age">Enter Employee Age</string>
+    <string name="db_hint_position">Enter Employee Position</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="update_employee">Update Employee</string>
+    <string name="delete_employee">Delete Employee</string>
+</resources>
