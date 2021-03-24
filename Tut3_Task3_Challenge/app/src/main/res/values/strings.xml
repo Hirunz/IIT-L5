@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tut3_Task3_Challenge</string>
+    <string name="item1">Cheese  </string>
+    <string name="item2">Rice    </string>
+    <string name="item3">Apples  </string>
+    <string name="item4">Water   </string>
+    <string name="item5">Grapes  </string>
+    <string name="item6">Soda    </string>
+    <string name="item7">Coca Cola   </string>
+    <string name="item8">Coffee  </string>
+    <string name="item9">Avacados</string>
+    <string name="item10">Tea    </string>
+    <string name="item11">Milk   </string>
+    <string name="item12">Oranges</string>
+    <string name="item13">Sprite</string>
+    <string name="item14">Pears</string>
+    <string name="item15">Berries</string>
+</resources>

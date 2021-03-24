@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3E5F5"
+    tools:context=".ShopActivity">
+
+    <TextView
+        android:id="@+id/shop_heading"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="#9C27B0"
+        android:gravity="center"
+        android:paddingLeft="10dp"
+        android:paddingTop="8dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="8dp"
+        android:text="SHOP"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/shop_heading"
+        app:layout_constraintVertical_bias="0.0">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center|center_horizontal"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/item1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="@string/item1"
+                app:backgroundTint="#7E40B3"
+                android:onClick="addItem"
+                android:tag="1"/>
+
+            <Button
+                android:id="@+id/item2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/item2"
+                app:backgroundTint="#7E40B3"
+                android:onClick="addItem"
+                android:tag="2"/>
+
+            <Button
+                android:id="@+id/item3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/item3"
+                app:backgroundTint="#7E40B3"
+                android:onClick="addItem"
+                android:tag="3"/>
+
+            <Button
+                android:id="@+id/item4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/item4"
+                app:backgroundTint="#7E40B3"
+                android:onClick="addItem"
+                android:tag="4"/>
+
+            <Button
+                android:id="@+id/item5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/item5"
+                app:backgroundTint="#7E40B3"
+                android:onClick="addItem"
+                android:tag="5"/>
+
+            <Button
+                android:id="@+id/item6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/item6"
+                app:backgroundTint="#7E40B3"
+                android:onClick="addItem"
+                android:tag="6"/>
+
+            <Button
+                android:id="@+id/item7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/item7"
+                app:backgroundTint="#7E40B3"
+                android:onClick="addItem"
+                android:tag="7"/>
+
+            <Button
+                android:id="@+id/item8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/item8"
+                app:backgroundTint="#7E40B3"
+                android:onClick="addItem"
+                android:tag="8"/>
+
+            <Button
+                android:id="@+id/item9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/item9"
+                app:backgroundTint="#7E40B3"
+                android:onClick="addItem"
+                android:tag="9"/>
+
+            <Button
+                android:id="@+id/item10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/item10"
+                app:backgroundTint="#7E40B3"
+                android:onClick="addItem"
+                android:tag="10"/>
+
+            <Button
+                android:id="@+id/item11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/item11"
+                app:backgroundTint="#7E40B3"
+                android:onClick="addItem"
+                android:tag="11"/>
+
+            <Button
+                android:id="@+id/item12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/item12"
+                app:backgroundTint="#7E40B3"
+                android:onClick="addItem"
+                android:tag="12"/>
+
+            <Button
+                android:id="@+id/item13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/item13"
+                app:backgroundTint="#7E40B3"
+                android:onClick="addItem"
+                android:tag="13"/>
+
+            <Button
+                android:id="@+id/item14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/item14"
+                app:backgroundTint="#7E40B3"
+                android:onClick="addItem"
+                android:tag="14"/>
+
+            <Button
+                android:id="@+id/item15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/item15"
+                app:backgroundTint="#7E40B3"
+                android:onClick="addItem"
+                android:tag="15"/>
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">tut3_task2_challenge</string>
+    <string name="btn1_text">Paragraph 1</string>
+    <string name="btn2_text">Paragraph 2</string>
+    <string name="btn3_text">Paragraph 3</string>
+    <string name="paragraph_heading">Paragraph Heading</string>
+    <string name="paragraph_text">Paragraph Text</string>
+
+
+    <string name="paragraph1_heading">What is Lorem Ipsum?</string>
+    <string name="paragraph2_heading">Where does it come from?</string>
+    <string name="paragraph3_heading">Why do we use it?</string>
+
+
+    <string name="paragraph1_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s,
+        when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+        It has survived not only five centuries, but also the leap into electronic typesetting,
+        remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+        and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+        <b>\n Lorem Ipsum Example: \n</b>
+
+        Etiam rutrum finibus arcu porta hendrerit.
+        Pellentesque quis ultrices ligula, maximus accumsan leo. Donec mi nisl, placerat eu luctus sed,
+        ultricies luctus augue. Aenean sodales euismod justo, eget vehicula velit viverra eu.
+        Vivamus quam libero, placerat eget risus ut, eleifend sollicitudin metus. Etiam dictum suscipit nulla ac semper.
+        Pellentesque fermentum risus at tempor facilisis. Suspendisse potenti. Sed eleifend lacinia nunc, at fermentum velit mollis vel.
+        Morbi ac nibh nec lacus tristique sollicitudin at nec quam. Aliquam quis nisi sit amet libero efficitur hendrerit.
+        Duis luctus tristique purus ac faucibus. Integer posuere elementum est, ac euismod mauris. Proin sit amet lorem sed ex sollicitudin fermentum.
+        Nam nulla purus, finibus gravida efficitur quis, dapibus et dolor.
+        \n \n
+        Mauris metus nunc, tincidunt sed ligula in, blandit ultrices felis. Donec eget blandit felis, id vehicula sem.
+        Pellentesque aliquam facilisis erat, quis ornare dolor mollis a. Ut quam augue, suscipit eget sem ac, accumsan ultrices purus.
+        In hac habitasse platea dictumst. Aliquam consequat gravida nisl, ac maximus neque sagittis sed.
+        Vivamus non lectus ut libero fermentum aliquam vitae ut elit. Sed non interdum ipsum.
+        Praesent dui diam, imperdiet id lectus ut, scelerisque semper lectus. Morbi vitae ex turpis.
+        Aliquam erat volutpat. Phasellus tempus cursus nunc vel feugiat. Praesent feugiat commodo tincidunt. Cras dapibus mi nec luctus scelerisque.
+        Nulla faucibus massa non eros suscipit tincidunt.
+    </string>
+    <string name="paragraph2_text">Contrary to popular belief, Lorem Ipsum is not simply random text.
+        It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+        Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words,
+        consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
+        Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC.
+        This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..",
+        comes from a line in section 1.10.32.
+        \n\n
+        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.
+        Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form,
+        accompanied by English versions from the 1914 translation by H. Rackham.
+
+        <b>\n Lorem Ipsum Example: \n</b>
+        Phasellus sit amet augue dictum tellus volutpat volutpat.
+        Donec vestibulum posuere quam, eget viverra urna placerat vitae. Vestibulum pharetra, ante quis mattis facilisis,
+        erat massa luctus lectus, quis euismod tellus urna quis metus. Nam vitae lorem ultricies felis imperdiet posuere.
+        Aliquam dignissim lectus pretium cursus volutpat. Duis sollicitudin molestie sem, eu rutrum dolor tincidunt ut. Sed sit amet orci massa.
+        Aenean a pulvinar metus, in sollicitudin neque. Vivamus non mauris laoreet ex sollicitudin condimentum sollicitudin ac dolor.
+        Morbi nec ligula tristique dui iaculis auctor. Nulla finibus est nisi, ut efficitur purus finibus eget. Sed purus augue, volutpat nec dui et,
+        bibendum tempus mi. Suspendisse consectetur tristique nunc vitae scelerisque. Cras facilisis et nibh at interdum.
+        Donec varius tortor quis nunc facilisis fringilla. Quisque ligula metus, placerat quis nisi vitae, tristique sollicitudin enim.
+
+    </string>
+    <string name="paragraph3_text">
+        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+        The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using
+        \'Content here, content here\', making it look like readable English.
+        Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text,
+        and a search for \'lorem ipsum\' will uncover many web sites still in their infancy. Various versions have evolved over the years,
+        sometimes by accident, sometimes on purpose (injected humour and the like).
+
+        <b>\n Lorem Ipsum Example: \n</b>
+
+        In hendrerit vitae eros at efficitur. Sed ut nulla vestibulum, imperdiet nulla et, viverra mauris.
+        Vivamus in tortor quis nunc mattis aliquet a ut augue. Praesent ornare diam at massa laoreet, eu dignissim orci laoreet.
+        Vestibulum non elit vulputate, semper metus bibendum, congue tortor. Sed condimentum ipsum sit amet arcu bibendum tincidunt.
+        Aliquam aliquet, nunc eget iaculis consectetur, magna erat imperdiet nulla, ac dictum nibh ante quis leo. Praesent odio sem,
+        pretium at gravida sed, tempus ac quam. Cras risus urna, vestibulum ut metus eu, efficitur sollicitudin ipsum. Phasellus vitae rhoncus orci.
+        Pellentesque a eleifend orci, at volutpat arcu. Donec ut arcu eu odio hendrerit efficitur. Quisque faucibus nec nunc in feugiat.
+        Vestibulum tincidunt leo et tristique malesuada. Sed sed justo ipsum. Cras felis orci, sagittis id augue vitae, varius eleifend tellus.
+
+        \n\n
+        Vivamus suscipit eleifend elit, ut hendrerit lacus ullamcorper sit amet. Curabitur id dui tincidunt enim porta aliquet.
+        Integer mi urna, semper a tellus ac, dapibus pretium metus. Nulla sit amet nisl iaculis, vestibulum augue et, ornare arcu.
+        Donec sed dapibus erat, vel ultrices diam. Vestibulum euismod nulla eu risus suscipit elementum. Proin ultricies congue neque,
+        in facilisis justo laoreet eu. Aliquam eget rutrum arcu. Fusce lectus lectus, laoreet in magna quis, egestas tempor nibh. Morbi ut tempor purus.
+        Donec tincidunt odio a nibh bibendum lobortis. Nulla id consectetur metus. Suspendisse congue in mauris in imperdiet. Quisque nec ante augue.
+        Etiam suscipit ultrices odio.
+
+    </string>
+
+
+
+
+</resources>
